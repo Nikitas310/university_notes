@@ -124,3 +124,6 @@ minimum, maximum = None, None
 		i += 2
 	return minimum, maximum
 ```
+
+
+סיום
